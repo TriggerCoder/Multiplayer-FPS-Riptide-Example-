@@ -1,0 +1,4 @@
+Viewarms / Weapon meshes and sounds: 3DMaesen https://sketchfab.com/bumstrum
+Animations: William Supian (Cod4 style weapon animations for existing models)
+Swat player model and player animations: Mixamo https://www.mixamo.com/#/
+Vegetation models: Devassets.com https://devassets.com/

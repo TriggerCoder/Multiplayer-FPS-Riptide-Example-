@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59eb7bef47a01df4c9711b2879d4c3d5, type: 3}
+  m_Name: pistol45
+  m_EditorClassIdentifier: 
+  WeaponName: Colt 45 ACP
+  WeaponLoadName: Pistol45
+  WeaponType: 0
+  FiringMode: 0
+  WeaponHoldType: 1
+  WeaponAimMode: 0
+  WeaponADSPosition: {x: -0.13, y: 0.0875, z: 0}
+  WeaponPosition: {x: -0.25, y: -2.2, z: -1.3}
+  WeaponFireRate: 800
+  WeaponDamage: 34
+  WeaponRange: 500
+  AltWeapon: {fileID: 0}
+  BulletsPerShot: 1
+  BulletBetweenTime: 0
+  WeaponReloadType: 0
+  MinimumReloadTime: 1.5
+  DrawTime: 1
+  HideTime: 0.5
+  MaxMagazineAmmo: 8
+  MaxReserveAmmo: 64
+  Muzzleflash: {fileID: 6191567655663463127, guid: 039fcc64eb004754bbf0f25bfa4f0ba6,
+    type: 3}
+  Muzzleflash_Thirdperson: {fileID: 6191567655663463127, guid: 312e9b8420fdbc64591692d4db76993a,
+    type: 3}
+  MuzzleSmoke: {fileID: 4049202897421833976, guid: ba7a61cb5085afe459bf9bc7396f6c3b,
+    type: 3}
+  ShellEject: {fileID: 1000013947318026, guid: cf85bb94b22a2a042b030aa505ddf12b, type: 3}
+  WeaponSway: 1
+  SwayYInverted: 0
+  SwayXInverted: 0
+  SwaySmoothing: 0
+  RecoilRotation: {x: 0, y: 0, z: 0}
+  RecoilKickback: {x: 0, y: 0, z: 0}
+  WeaponDrawSound: {fileID: 8300000, guid: 3082c5334839d9f42be9d71758db55a2, type: 3}
+  WeaponFirstDrawSound: {fileID: 8300000, guid: 3082c5334839d9f42be9d71758db55a2,
+    type: 3}
+  WeaponFireSound: {fileID: 8300000, guid: 7433d41771d2de04396aa66f644ebb0b, type: 3}
+  WeaponReloadFullSound: {fileID: 8300000, guid: 091ea92602462084697dccba2ce477e0,
+    type: 3}
+  WeaponReloadTacticalSound: {fileID: 8300000, guid: 6132b9acb86f00d4f9da2d518001c9e3,
+    type: 3}
+  Head: 2
+  UpperTorso: 1
+  LowerTorso: 1
+  LeftUpperArm: 0.5
+  LeftLowerArm: 0.5
+  RightUpperArm: 0.5
+  RightLowerArm: 0.5
+  LeftUpperLeg: 0.5
+  LeftLowerLeg: 0.5
+  RightUpperLeg: 0.5
+  RightLowerLeg: 0.5
+  Idle: {fileID: -1978303741906493279, guid: 4511203db9b00ab4d89274d3a3206633, type: 3}
+  Sprinting: {fileID: -8079800386460014158, guid: 4511203db9b00ab4d89274d3a3206633,
+    type: 3}
+  Fire: {fileID: -3576926933002285359, guid: 4511203db9b00ab4d89274d3a3206633, type: 3}
+  DryFire: {fileID: -1978303741906493279, guid: 4511203db9b00ab4d89274d3a3206633,
+    type: 3}
+  FirstDraw: {fileID: 7400000, guid: 3e74665c804cebe42bd25dde042c23a6, type: 2}
+  Draw: {fileID: 7400000, guid: 3e74665c804cebe42bd25dde042c23a6, type: 2}
+  Hide: {fileID: 7400000, guid: f995dfb8c644a2b4c968f4f00db2eb18, type: 2}
+  Melee: {fileID: 0}
+  ReloadFull: {fileID: -1631546600439298249, guid: 4511203db9b00ab4d89274d3a3206633,
+    type: 3}
+  ReloadTactical: {fileID: 2952191893427251642, guid: 4511203db9b00ab4d89274d3a3206633,
+    type: 3}
+  RechamberStart: {fileID: 0}
+  RechamberRound: {fileID: 0}
+  RechamberEnd: {fileID: 0}
+  HudIcon: {fileID: 0}
+  KillIcon: {fileID: 0}
+  AmmoIcon: {fileID: 0}
+  WeaponViewModel: {fileID: 4300421885272491604, guid: dec9d691fc47e4643b3d4608be21083e,
+    type: 3}
+  WeaponWorldModel: {fileID: 6009051244496888025, guid: 3964d60c94ddd254d8657bd03841e508,
+    type: 3}
