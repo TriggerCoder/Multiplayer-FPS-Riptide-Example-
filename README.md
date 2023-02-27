@@ -16,3 +16,17 @@ Features:\
 -Early stage of a weapon system (mostly visual only and you can't kill other players yet).\
 
 https://www.youtube.com/watch?v=UPUD-4dJW4U
+
+How to Use it:
+-Open Server Project\
+-Load Main Scene\
+-Press Play\
+
+-Open Client Project\
+-Load MainMenu Scene\
+-Press Play\
+-Click on Debug Connect\
+Voilà!
+
+If server discconect the client on first play (because client is taking time loading all the assets) just click "Debug Connect" again and Voilà
+Questions to original author on Discord: (Speedex#2686)
